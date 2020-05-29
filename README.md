@@ -1,2 +1,2 @@
 # VLSE
-In thhis repository we outline methods for the comparison and evaluation of emultors and designs for computer experiments.
+In this repository we outline how to use the Virtual Library of Simulation experiments for the comparison and evaluation of emulators and designs.
